@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome to Alibaba Cloud DevOps v1.0</h1>
+<h1><font color="red">Welcome to Alibaba Cloud DevOps v2.0</font></h1>
 <p>Bye</p>
 </body>
 </html>
